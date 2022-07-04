@@ -1,4 +1,4 @@
-# ProjectGurukul Number plate recognition
+
 # import necessary packages
 
 import cv2
